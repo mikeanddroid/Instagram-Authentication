@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InstagramAuthDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="client_id">3a508b397cd94ee997534b9c4770e6ae</string>
+    <string name="client_secret">95285eb7bef648ab922ffba1de0a23cc</string>
+    
+</resources>
